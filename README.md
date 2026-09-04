@@ -16,8 +16,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=TypeScript+%7C+React+%7C+Next.js+%7C+Vue.js;HTML+%7C+CSS+%7C+Tailwind+%7C+JavaScript;Desenvolvimento+Front-end+e+Seguran%C3%A7a" alt="Apresentação animada da stack" />
   </a>
 
-CONTATO
-
 Para dúvidas, sugestões, projetos ou oportunidades de colaboração, entre em contato comigo pelo e-mail: contato.lucascode@gmail.com
  
   <br />
