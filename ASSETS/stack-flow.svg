@@ -1,0 +1,84 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080C14"/>
+      <stop offset="0.5" stop-color="#0D1524"/>
+      <stop offset="1" stop-color="#08111A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="115" y1="195" x2="1085" y2="195" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="0.5" stop-color="#2F81F7"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="title" x1="60" y1="0" x2="590" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#8BBDFF"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <style>
+      .flow { stroke-dasharray: 12 14; animation: travel 1.8s linear infinite; }
+      .node { animation: pulse 2.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .node:nth-of-type(2) { animation-delay: .4s; }
+      .node:nth-of-type(3) { animation-delay: .8s; }
+      .node:nth-of-type(4) { animation-delay: 1.2s; }
+      .scan { animation: scan 4.5s ease-in-out infinite; }
+      @keyframes travel { to { stroke-dashoffset: -52; } }
+      @keyframes pulse { 0%,100% { opacity: .72; transform: scale(.94); } 50% { opacity: 1; transform: scale(1.08); } }
+      @keyframes scan { 0%,100% { transform: translateX(0); opacity: 0; } 15% { opacity: .65; } 85% { opacity: .65; } 100% { transform: translateX(1080px); opacity: 0; } }
+      text { font-family: 'Segoe UI', Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="388" rx="26" fill="url(#background)" stroke="#263349" stroke-width="2"/>
+  <circle cx="1080" cy="48" r="155" fill="#2F81F7" opacity="0.055"/>
+  <circle cx="120" cy="370" r="170" fill="#7C3AED" opacity="0.06"/>
+  <path d="M48 87H1152" stroke="#263349"/>
+  <circle cx="38" cy="37" r="5" fill="#FF5F57"/>
+  <circle cx="57" cy="37" r="5" fill="#FEBC2E"/>
+  <circle cx="76" cy="37" r="5" fill="#28C840"/>
+  <text x="106" y="44" fill="#718096" font-size="13" letter-spacing="2">LUCASCODELAB / SYSTEM ARCHITECTURE</text>
+  <rect class="scan" x="55" y="86" width="2" height="278" fill="#58A6FF" filter="url(#glow)"/>
+
+  <text x="60" y="133" fill="url(#title)" font-size="27" font-weight="700">Tecnologia conectada de ponta a ponta</text>
+  <text x="60" y="160" fill="#7D8CA3" font-size="14">Interfaces modernas, experiências fluidas, alta performance e segurança integrada.</text>
+
+  <path class="flow" d="M157 246H1043" stroke="url(#line)" stroke-width="3" opacity="0.9"/>
+
+  <g filter="url(#shadow)">
+    <rect x="58" y="194" width="220" height="126" rx="18" fill="#111827" stroke="#6D4AFF"/>
+    <rect x="326" y="194" width="220" height="126" rx="18" fill="#111827" stroke="#2F81F7"/>
+    <rect x="594" y="194" width="220" height="126" rx="18" fill="#111827" stroke="#1FAD8F"/>
+    <rect x="862" y="194" width="280" height="126" rx="18" fill="#111827" stroke="#2DD4BF"/>
+  </g>
+
+  <circle class="node" cx="168" cy="246" r="10" fill="#8B5CF6" filter="url(#glow)"/>
+  <circle class="node" cx="436" cy="246" r="10" fill="#58A6FF" filter="url(#glow)"/>
+  <circle class="node" cx="704" cy="246" r="10" fill="#34D399" filter="url(#glow)"/>
+  <circle class="node" cx="1002" cy="246" r="10" fill="#2DD4BF" filter="url(#glow)"/>
+
+  <text x="82" y="225" fill="#A78BFA" font-size="13" font-weight="700" letter-spacing="1.5">FRONT-END</text>
+  <text x="82" y="278" fill="#F3F4F6" font-size="17" font-weight="600">React · Next.js · Vue</text>
+  <text x="82" y="301" fill="#718096" font-size="13">TypeScript · Tailwind · Sass</text>
+
+  <text x="350" y="225" fill="#69A7FF" font-size="13" font-weight="700" letter-spacing="1.5">LINGUAGENS</text>
+  <text x="350" y="278" fill="#F3F4F6" font-size="17" font-weight="600">TypeScript · JavaScript</text>
+  <text x="350" y="301" fill="#718096" font-size="13">HTML · CSS</text>
+
+  <text x="618" y="225" fill="#48D8B5" font-size="13" font-weight="700" letter-spacing="1.5">EXPERIÊNCIA</text>
+  <text x="618" y="278" fill="#F3F4F6" font-size="17" font-weight="600">Design responsivo</text>
+  <text x="618" y="301" fill="#718096" font-size="13">Performance · Acessibilidade</text>
+
+  <text x="886" y="225" fill="#5EEAD4" font-size="13" font-weight="700" letter-spacing="1.5">QUALIDADE E SEGURANÇA</text>
+  <text x="886" y="278" fill="#F3F4F6" font-size="17" font-weight="600">Git · GitHub · Vite</text>
+  <text x="886" y="301" fill="#718096" font-size="13">Criptografia · Boas práticas</text>
+
+  <text x="60" y="355" fill="#46556B" font-size="12" letter-spacing="1">DESIGN  /  BUILD  /  SECURE  /  SHIP</text>
+  <circle cx="1118" cy="350" r="4" fill="#2DD4BF" filter="url(#glow)"/>
+  <text x="1035" y="355" fill="#6EE7D2" font-size="12" letter-spacing="1">ONLINE</text>
+</svg>
