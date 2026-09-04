@@ -16,6 +16,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=TypeScript+%7C+React+%7C+Next.js+%7C+Vue.js;HTML+%7C+CSS+%7C+Tailwind+%7C+JavaScript;Desenvolvimento+Front-end+e+Seguran%C3%A7a" alt="Apresentação animada da stack" />
   </a>
 
+entrar em contato  pelo seguinte e-mail: conanto.lucascode@gmail.com
+ 
   <br />
 
   <img src="https://img.shields.io/badge/Front--end-111827?style=for-the-badge" alt="Front-end" />
