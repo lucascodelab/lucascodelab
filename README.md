@@ -13,7 +13,7 @@
   </p>
 
   <a href="https://github.com/lucascodelab">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=TypeScript+%7C+React+%7C+Next.js+%7C+Vue.js;HTML+%7C+CSS+%7C+Tailwind+%7C+JavaScript;Desenvolvimento+Front-end+e+Seguran%C3%A7a" alt="Apresentação animada da stack" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=TypeScript+%7C+React+%7C+Next.js+%7C+Vue.js;HTML+%7C+CSS+%7C+Tailwind+%7C+JavaScript;Desenvolvimento+Front-end+e+Seguran%C3%A7a" alt="Apresentação animada da stack" />
   </a>
 
   <br />
@@ -25,19 +25,19 @@
   <br />
   <br />
 
-  <img src="https://komarev.com/ghpvc/?username=lucascodelab&label=VISITAS%20AO%20PERFIL&color=1f6feb&style=for-the-badge" alt="Contador de visitas do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=lucascodelab&label=VISITAS%20AO%20PERFIL&color=000000&style=for-the-badge" alt="Contador de visitas do perfil" />
   <a href="https://github.com/lucascodelab?tab=followers">
-    <img src="https://img.shields.io/github/followers/lucascodelab?label=SEGUIDORES&style=for-the-badge&color=238636&labelColor=161b22" alt="Seguidores no GitHub" />
+    <img src="https://img.shields.io/github/followers/lucascodelab?label=SEGUIDORES&style=for-the-badge&color=000000&labelColor=171717" alt="Seguidores no GitHub" />
   </a>
 
   <br />
   <br />
 
   <a href="https://github.com/lucascodelab?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORAR%20PROJETOS-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Explorar projetos" />
+    <img src="https://img.shields.io/badge/EXPLORAR%20PROJETOS-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explorar projetos" />
   </a>
   <a href="mailto:contato.lucascode@gmail.com">
-    <img src="https://img.shields.io/badge/INICIAR%20CONVERSA-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Iniciar conversa por e-mail" />
+    <img src="https://img.shields.io/badge/INICIAR%20CONVERSA-171717?style=for-the-badge&logo=gmail&logoColor=white" alt="Iniciar conversa por e-mail" />
   </a>
 
 </div>
@@ -134,7 +134,7 @@ Automação e boas práticas de desenvolvimento
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=lucascodelab&theme=github-dark-blue&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições de lucascodelab" />
+  <img src="https://streak-stats.demolab.com?user=lucascodelab&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=D1D5DB&currStreakLabel=FFFFFF&sideLabels=9CA3AF&dates=737373" alt="Sequência de contribuições de lucascodelab" />
 
 </div>
 
@@ -150,14 +150,6 @@ Automação e boas práticas de desenvolvimento
 
 </div>
 
-# Atividade recente
-
-<div align="center">
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lucascodelab&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" alt="Gráfico de atividades recentes de lucascodelab" />
-
-</div>
-
 <div align="center">
 
   # Contato e colaboração
@@ -168,13 +160,13 @@ Automação e boas práticas de desenvolvimento
   </p>
 
   <a href="https://www.linkedin.com/in/lucas--013b343a8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil profissional no LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil profissional no LinkedIn" />
   </a>
   <a href="https://github.com/lucascodelab" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-lucascodelab-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil lucascodelab no GitHub" />
   </a>
   <a href="mailto:contato.lucascode@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para contato.lucascode@gmail.com" />
+    <img src="https://img.shields.io/badge/E--mail-Contato-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para contato.lucascode@gmail.com" />
   </a>
 
   <br />
@@ -189,4 +181,4 @@ Automação e boas práticas de desenvolvimento
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:238636&height=110&section=footer" alt="Rodapé visual" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:171717,100:404040&height=110&section=footer" alt="Rodapé visual" />
